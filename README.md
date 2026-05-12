@@ -58,8 +58,8 @@ Sensitive credentials and API keys have been removed for security purposes.
 
 ## Connect
 
-- GitHub: https://github.com/yourusername
-- Portfolio: https://yourportfolio.com
+- GitHub: https://github.com/ahmed-ali-codes
+- Portfolio: https://ecotrustiasolutions/portfolio
 
 ---
 
